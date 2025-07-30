@@ -86,4 +86,4 @@ To run this project locally, follow these steps:
 This project uses the [TMDb 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). Movie posters are fetched from the [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api).
 
 ---
-*Created by CD55K*
+*Created by Aditya *
